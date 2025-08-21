@@ -1,35 +1,51 @@
-# Hi, I'm Elisha 👋  
+# 👋 Hi, I'm Elisha Agbara  
 
-💻 Computer Engineering student @ **LAUTECH**  
-🌱 Currently learning **React & Node.js**  
-🚀 Passionate about building web apps and solving problems with code  
-📫 Reach me: **abejideagbara94@gmail.com**  
-
----
-
-## 🛠 Tech Stack
-- **Languages:** JavaScript, C, Java  
-- **Frontend:** HTML, CSS, React  
-- **Backend (learning):** Node.js, Express  
-- **Tools:** Git, GitHub, APIs, VS Code  
+🚀 Passionate about **Web Development**, **Software Engineering**, and building cool projects that solve real-world problems.  
+🎓 Computer Engineering student at **Ladoke Akintola University of Technology (LAUTECH)**.  
+💡 Currently exploring **React, JavaScript, C, Java**, and contributing to open source.  
 
 ---
 
-## 🚀 Projects
-Here are some projects I’ve built (check my pinned repos 👇):  
+## 🛠️ Tech Stack
+- 🌐 Frontend: **HTML, CSS, JavaScript, React**
+- ⚙️ Backend (learning): **Node.js**
+- 💻 Programming Languages: **C, Java, Python (basics)**
+- 🗄️ Tools: **Git, GitHub, VS Code**
 
-- 🔍 **Image Search Engine** → Fetches and displays images from Unsplash API  
-- 🐱 **Random Cat Fact Generator** → Fun app that shows random cat facts from an API  
-- 🔐 **Password Strength Checker** → Real-time visual indicator of password strength  
-- ❌⭕ **Tic Tac Toe Game** → Classic two-player game built with JavaScript  
+---
+
+## 📌 Projects
+Here are some of my favorite projects:  
+
+- 🔎 [Image Search Engine](#) – Search and display images using APIs.  
+- 🐱 [Random Cat Fact Generator](#) – Get fun cat facts with just a click.  
+- 🔐 [Password Strength Checker](#) – Test how strong your password is.  
+- ❌⭕ [Tic Tac Toe Game](#) – Classic game built with JavaScript.  
+
+*(I’ll keep adding more as I grow 🚀)*  
 
 ---
 
 ## 📊 GitHub Stats
-![Elisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=abejideagbara&show_icons=true&theme=radical)  
+![Elisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agbara286&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abejideagbara&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agbara286&layout=compact&theme=radical)
 
 ---
 
-✨ Thanks for visiting my profile — more projects coming soon!
+## 🌱 Currently Learning
+- Advanced **React.js**
+- **APIs** & backend with **Node.js**
+- Writing cleaner, production-ready code  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: **abejideagbara94@gmail.com**  
+- 💼 [LinkedIn](#) *(add your profile link when ready)*  
+- 🐙 [GitHub](https://github.com/Agbara286)  
+
+---
+
+⭐️ Thanks for visiting my profile! — *More projects coming soon...*
+
